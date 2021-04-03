@@ -137,4 +137,5 @@ The general purpose animation code found in the remainder of the repository, on 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A personal realization by an IT personal for importance of exercise](https://dev.to/nitss007/fitness-in-wfh-de)
 <!-- BLOG-POST-LIST:END -->
